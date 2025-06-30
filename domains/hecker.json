@@ -1,0 +1,11 @@
+{
+  "subdomain": "hecker",
+  "owner": {
+    "email": "mrheckergamerhack@gmail.com"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "flask-tunnel.cfargotunnel.com"
+  },
+  "proxied": true
+}
