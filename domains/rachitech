@@ -1,0 +1,16 @@
+{
+  "owner": {
+    "username": "HeckerGamerJr"
+  },
+  "records": {
+    "CNAME": "tuffmcserver.duckdns.org",
+    "SRV": [
+      {
+        "priority": 10,
+        "weight": 5,
+        "port": 25565,
+        "target": "mc.rachitech.is-a.dev"
+      }
+    ]
+  }
+}
